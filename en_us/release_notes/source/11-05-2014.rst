@@ -46,7 +46,7 @@ Coming Soon
 
 * In edX Insights, course authors will be able to view demographic   data for
   students enrolled in their courses. Self-reported age, education, and   gender
-  data will be available to view in histogram, metrics, and table form, and   will
+  data will be available to view as histograms, metrics, and in tables, and will
   also be available for download in csv format.
 
 **************************
@@ -82,15 +82,14 @@ The following documentation is available:
 
   * Addition of context-sensitive Help on each page of the edX Insights user
     interface. Click **Help** in the upper-right corner of any page to access
-    relevant sections of this guide. You can also download the entire guide as a
-    PDF.
+    relevant sections of this guide.
 .. adding line for space    
     
 * `EdX Guide for Students`_
 
   Recent changes include:
 
-  * Changes to reflect fact that course start times as well as dates are now shown
+  * Updates to reflect fact that course start times as well as dates are now shown
     for courses.
 
 .. adding line for space
