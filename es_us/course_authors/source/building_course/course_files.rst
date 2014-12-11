@@ -30,7 +30,7 @@ Se puede añadir archivos, que se deseen dar accesos a los estudiantes del curso
 
 Ya que el nombre llega a ser parte de la URL, los estudiantes pueden ver el nombre del archivo cuando lo abren. Evite el uso de nombres de archivo como clave_respuestas.pdf
 
-.. Advertencia:: 
+.. warning:: 
  Para archivos  PDF e imagenes, edX recomienda que se use las herramientas estandar de compresión para reducir el tamaño del archivo antes de añadir en el curso.
 
  Evite el uso de nombres de archivo como Clave de respuestas Si un archivo pesa 50MB despues de la compresión y este es necesario para el curso, contactese su administrador de programas edx.
@@ -46,7 +46,7 @@ Añadir archivos:
 #. En el cuadro de dialogo **Cargar nuevo archivo**, click **Escojer archivo**.
 #. En el cuadro de dialogo **Abrir**, seleccione uno o más archivos que desee cargar,después click en **Abrir**.
 
-   .. nota:: 
+   .. note:: 
      Si se carga un archivo con un nombre ya existente en el archivo del curso, el archivo original será sobrescrito sin ninguna advertencia.
 
 #. Para añadir más archivos, click **Cargar otro archivo** y repetir los pasos anteriores.
@@ -64,14 +64,14 @@ En la pagina de Archivos & Carga, cada archivo tiene un  **URL interno** y un **
 
 
 .. image:: ../Images/files_uploads_urls.png
-
- :alt: En la pagina en la opción de de Archivos & Cargas,  el URL interno y  URL externa esta señaladas en círculos
+ :alt: Image of the Files and Uploads page, with Embed URL and External URL
+     columns circled
 
 * Se utiliza el **URL embed ** para enlazar al archivo o imagen desde un componente, una actualización de curso, o un folleto del curso.
 
 * Se utiliza un **URL externo** para hacer referencia al archivo o imagen desde fuera de su curso. La dirección URL externa no funciona si se bloquea el archivo a menos que la persona que acceda a la URL está inscrito en el curso.
 
-   .. Advertencia :: No se puede utilizar la dirección URL externa como la referencia a un archivo o imagen desde el interior de su curso.
+.. warning:: No se puede utilizar la dirección URL externa como la referencia a un archivo o imagen desde el interior de su curso.
 
 Puede hacer doble click en un valor en el **URL embed ** o **URL externo** para seleccionar el valor, y luego copiarlo. 
 
@@ -137,5 +137,5 @@ Borrar Archivos
 
 Para borrar un archivo, click en el icono **x** que esta junto al archivo. Se le solicitará que confirme la eliminación.
 
-.Advertencia:: Si un archivo tiene enlces estos se eliminan, por tanto los vínculos se romperán.
+.. warning:: Si un archivo tiene enlces estos se eliminan, por tanto los vínculos se romperán.
   Asegúrese de cambiar los enlaces antes de eliminar el archivo.

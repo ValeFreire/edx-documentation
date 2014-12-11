@@ -37,8 +37,8 @@ Crear nuevo curso
   .. image:: ../Images/new_course_info.png
      :alt: Image of the course creation page
 
-  .. nota::  Ingrese la información del nuevo curso cuidadosamente. Esta información se convierte en parte del URL del Curso. Para cambiar el URL despues que el grupo fue creado, debe ponerse en contacto
-             edX atravez de Ayuda del sitio web  (http://help.edge.edx.org).Adicionalmente, esta información formará parte del URL del curso, el número total de carateres en los cuatro campos debe ser de 65 o menos.
+  .. note::  Ingrese la información del nuevo curso cuidadosamente. Esta información se convierte en parte del URL del Curso. Para cambiar el URL despues que el grupo fue creado, debe ponerse en contacto
+             edX atravez de Ayuda del sitio web  (http://help.edge.edx.org). Adicionalmente, esta información formará parte del URL del curso, el número total de carateres en los cuatro campos debe ser de 65 o menos.
 
   * Para **Nombre del Curso**, ingrese el nombre del curso. Por ejemplo, el nombre puede ser  “Sets, Mapas y Simetría Grupos". Use letras en mayúsculas para el nombre del título.
 
@@ -72,7 +72,7 @@ Cuando se retorna a la sesión de estudio, los cursos se enumeran en la página 
  .. image:: ../Images/open_course.png
   :alt: Imagen del curso en el panel de control de estuido
  
-Abra el cursoTo, click en el nombre del curso. Ir al esquema del curso. 
+Abra el curso, click en el nombre del curso. Ir al esquema del curso. 
 
 .. _Use the Course Checklist:
 
@@ -113,7 +113,7 @@ Solo un miembro con accesos de administrador puede añadir, eliminar o dar acces
 
 Otros miembros del curso pueden editar y realizar todas las tareas, excepto añadir y eliminar otros nuevos miembros del equipo y dar acceso de administrador.
 
-.. nota:: Ningun miembro del curso puede borrar contenido creado por otros miembros.
+.. note:: Ningun miembro del curso puede borrar contenido creado por otros miembros.
 
 Todos los miembros del curso deben estar registrados y con una cuenta activa en la sessión de estudio.
 
