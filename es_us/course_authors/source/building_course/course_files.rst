@@ -1,160 +1,141 @@
 .. _Add Files to a Course:
 
 ###########################
-Adding Files to a Course
+Añadir archivos al curso
 ###########################
 
 
 *******************
-Overview
+Visión General
 *******************
 
-To use images in your course content, or to use other documents such as a
-syllabus, you must add the files to your course.
+Se debe usar imagene, archivos  u otros documentos como sílabos para el contenido del curso.
 
-* :ref:`Add a File`
-* :ref:`File URLs`
-* :ref:`Sort Files`
-* :ref:`Find Files`
-* :ref:`Lock a File`
-* :ref:`Delete a File`
+* :ref:`Añadir archivo`
+* :ref:`URLs de archivos`
+* :ref:`Ordenar archivos`
+* :ref:`Buscar archivos`
+* :ref:`Bloquear archivo`
+* :ref:`Borrar archivo`
 
 
 .. _Add a File:
 
 *******************
-Add a File
+Añadir archivo
 *******************
  
-You can add files that you want students to access in the course. After you add
-a file, you must link to it from a component, a course update, or in the course
-handouts. A file is only visible to students if you create a link to it.
+Se puede añadir archivos, que se deseen dar accesos a los estudiantes del curso.Despues de añadir un archivo se debe enlazar con él desde un componente, una actualización del curso,
+ o en los folletos del curso. Un archivo es visible sólo para los estudiantes si se crea un enlace a ella.
 
-Because the file name becomes part of the URL, students can see the name of the
-file when they open it. Avoid using file names such as AnswerKey.pdf.
+Ya que el nombre llega a ser parte de la URL, los estudiantes pueden ver el nombre del archivo cuando lo abren. Evite el uso de nombres de archivo como clave_respuestas.pdf
 
-.. warning:: 
- For PDF and image files, edX recommends that you use standard compression tools to reduce the file size before adding them to your course.
+.. Advertencia:: 
+ Para archivos  PDF e imagenes, edX recomienda que se use las herramientas estandar de compresión para reducir el tamaño del archivo antes de añadir en el curso.
 
- If you have files that are larger than 50 MB after compression and need them for your course, contact your edX Program Manager.
+ Evite el uso de nombres de archivo como Clave de respuestas Si un archivo pesa 50MB despues de la compresión y este es necesario para el curso, contactese su administrador de programas edx.
 
- Furthermore, do not add video or audio files, or large data sets that are to be used by students. You should use YouTube or another hosting service to host multimedia files for your course. For storing large data sets for student use, contact your edX Program Manager.
+ Por otra parte, no se debe añadir archivos de video y audio, o grandes conjuntos de datos para ser usados por losestudiantes. Se debe utilizar YouTube u otro servicio de alojamiento
+ para multimedia para el curso. Para el almacenamiento de grandes conjuntos de datos para uso de los estudiantes, pongase en contacto con su administrador de programas edx.
   
 
-
-To add files:
+Añadir archivos:
  
-#. From the **Content** menu, select **Files & Uploads**.
-#. Click **Upload New File**.
-#. In the **Upload New File** dialog box, click **Choose File**.
-#. In the **Open** dialog box, select one more files that you want to upload,
-   then click **Open**.
+#. Desde el menú **Contenido**, seleccione  **Archivos  & Cargar**.
+#. Click **Cargar nuevo archivo**.
+#. En el cuadro de dialogo **Cargar nuevo archivo**, click **Escojer archivo**.
+#. En el cuadro de dialogo **Abrir**, seleccione uno o más archivos que desee cargar,después click en **Abrir**.
 
-   .. note:: 
-     If you upload a file with the same name as an existing course file
-     the original file is overwritten without warning.
+   .. nota:: 
+     Si se carga un archivo con un nombre ya existente en el archivo del curso, el archivo original será sobrescrito sin ninguna advertencia.
 
-#. To add more file, click **Load Another File** and repeat the previous step.
-#. To close the dialog box, click the **x** in the top right corner. 
+#. Para añadir más archivos, click **Cargar otro archivo** y repetir los pasos anteriores.
+#. Para cerrar el cuadro de dialogo, click en la **x**  en la esquina superior derecha. 
 
-When you close the dialog box, the new files appear on the **Files & Uploads**
-page.
+Cuando se cierra el ciuadro de dialogo, las nuevas carpetas aparecen enla pagina en  **Archivos & Cargas**.
 
 .. _File URLs:
 
 *******************
-File URLs
+URLs de archivos
 *******************
 
-In the Files & Uploads page, each file has has an **Embed URL** and an
-**External URL**:
+En la pagina de Archivos & Carga, cada archivo tiene un  **URL interno** y un **URL externo**:
 
 
 .. image:: ../Images/files_uploads_urls.png
- :alt: Image of the Files and Uploads page, with Embed URL and External URL
-     columns circled
 
-* You use the **Embed URL** to link to the file or image from a component, a
-  course update, or a course handout.
+ :alt: En la pagina en la opción de de Archivos & Cargas,  el URL interno y  URL externa esta señaladas en círculos
 
-* You use the **External URL** to reference the file or image from outside of
-  your course. The external URL does not work if you lock the file unless the
-  person accessing the URL is enrolled in the course.
+* Se utiliza el **URL embed ** para enlazar al archivo o imagen desde un componente, una actualización de curso, o un folleto del curso.
 
-  .. warning:: You cannot use the External URL as the reference to a file or
-   image from within your course.
+* Se utiliza un **URL externo** para hacer referencia al archivo o imagen desde fuera de su curso. La dirección URL externa no funciona si se bloquea el archivo a menos que la persona que acceda a la URL está inscrito en el curso.
 
-You can double click a value in the **Embed URL** or **External URL** column to select the value, then copy it.
+   .. Advertencia :: No se puede utilizar la dirección URL externa como la referencia a un archivo o imagen desde el interior de su curso.
+
+Puede hacer doble click en un valor en el **URL embed ** o **URL externo** para seleccionar el valor, y luego copiarlo. 
+
+
 
 .. _Sort Files:
 
 *******************
-Sort Files
+Ordenar Archivos
 *******************
 
-By default, files are sorted by the **Date Added** column, with the most
-recently added first.
+Por defecto, los archivos son ordenados por la columna de **Fecha de creación**, con el archivo más reciente agregado primero.
 
-Alternatively, can also sort the list by the **Name** column by clicking on the
-column header.
+Alternativamente, puede también ser ordenado por la columna  **Nombre** haciendo click en el encabezado de la columna.
 
-For either the the **Date Added** or **Name** column, you can switch the sort
-order from descending to ascending, and back, by clicking the column header a
-second time.
+Para cualquiera de las columnas **Fecha de Carga** o **Nombre**, puede cambiar el orden de clasificación de descendente a ascendente,y viceversa, haciendo click en el encabezado de la columna una segunda vez.
 
-The current sort order is shown at the top of the file list, and the active sort
-column header is underlined:
+El orden actual se muestra en la parte superior de la lista de archivos, y se subrayó la cabecera de la columna que este activo:
+
 
 .. image:: ../Images/file_sort.png
-  :alt: Sorting files in the Files & Uploads page
+  :alt: Ordenar archivos en Archivos & Cargas
 
 .. _Find Files:
 
 *******************
-Find Files
+Buscar Archivo
 *******************
 
-The **Files & Uploads** page lists up to 50 files.  If your course has more than
-50 files, additional files are listed on other pages.
 
-The range of the files listed on the page, and the total number of files, are
-shown at the top of the page.
+En **Archivos & Cargar** enumera hasta 50 archivos. Si el curso tiene más de 50 archivos, los archivos adicionales se enumeran en otras páginas.
 
-You can navigate through the pages listing files in two ways:
+El rango de los archivos que aparecen en la página, y el número total de archivos, se muestran en la parte superior de la página.
 
-* Use the **<** and **>** buttons at the top and bottom of the list to navigate
-  to the previous and next pages.
+Usted puede navegar a través de las páginas del listado de archivos de dos maneras:
 
-* At the bottom of the page, enter the page number to skip to, then tab out of
-  the field:
+
+* Use los botones  **<** and **>**,  estos botones se encuentran en la parte superior e inferior de la lista de navegación para dirijise a las páginas anteriores y siguientes.
+
+* En la parte inferior de la página, introduzca el número de página para ir y, a continuación, salta fuera del campo:
 
   
   .. image:: ../Images/file_pagination.png
-    :alt: Pagination in the Files & Uploads page
+    :alt: Paginación en Archivos y Cargas
 
 .. _Lock a File:
  
 *******************
-Lock a File
+Bloquear Archivos
 *******************
 
-By default, anyone can access a file you upload if they know the URL, even
-people not enrolled in your class.
+Por defecto, cualquier persona puede acceder a un archivo que subas si conocen la URL, incluso las personas que no están inscritos en su clase.
 
-To ensure that those not in your class cannot view the file, click the lock
-icon.
+Para asegurarse de que los que no están en tu clase no puede ver el archivo, haga clic en el icono de bloqueo
 
-.. note:: The external URL does not work if you lock the file.
+.. note:: El URL externo no trabaja si el archivo esta bloqueado.
  
 .. _Delete a File:
 
 *******************
-Delete a File
+Borrar Archivos
 *******************
 
-To delete a file, click the **x** icon next to the file.  You are prompted to
-confirm the deletion.
+Para borrar un archivo, click en el icono **x** que esta junto al archivo. Se le solicitará que confirme la eliminación.
 
-.. warning:: If you have links to a file you delete, those links will be broken.
- Ensure you change those links before deleting the file.
- 
+.Advertencia:: Si un archivo tiene enlces estos se eliminan, por tanto los vínculos se romperán.
+  Asegúrese de cambiar los enlaces antes de eliminar el archivo.

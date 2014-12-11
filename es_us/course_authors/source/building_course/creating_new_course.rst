@@ -1,23 +1,25 @@
 .. _Creating a New Course:
 
 ###########################
-Creating a New Course
+Crear un nuevo Curso
 ###########################
 
 
 *******************
-Overview
+Visión General
 *******************
 
-This chapter describes how to create and set up your course:
+Este capítulo desccribe como crear paso a paso un curso: 
 
-* :ref:`Create a New Course`
-* :ref:`Edit Your Course`
-* :ref:`Use the Course Checklist`
-* :ref:`Add Course Team Members`
 
-You can also :ref:`Export a Course` and :ref:`Import a Course` through Studio.
-You can do this when you need to edit the course in XML.
+* :ref:`Crear un nuevo Curso`
+* :ref:`Editar Curso`
+* :ref:`Utilice la lista de control del Curso`
+* :ref:`Añadir miembros al grupo del Curso`
+
+Tu también puedes :ref:`Exportar un Curso` y :ref:`Importar un Curso` através del curso.
+Se puede hacer esto cuando sea necesario, para editar cursos en XML.
+
 
 .. _Edge: http://edge.edx.org
 .. _edXorg: http://edx.org
@@ -25,125 +27,105 @@ You can do this when you need to edit the course in XML.
 .. _Create a New Course:
   
 *******************
-Create a New Course
+Crear nuevo curso
 *******************
 
-#. Log in to Studio.
-#. Click **New Course**.
-#. Enter course information as needed and click **Create**.
+#. Iniciar sección.
+#. Click **Nuevo Curso**.
+#. Introduzca la información del curso, según sea necesario y haga click en **Crear**.
 
   .. image:: ../Images/new_course_info.png
      :alt: Image of the course creation page
 
-  .. note::  Enter new course information carefully. This information becomes
-   part of the URL for your course. To change the URL after the course is
-   created, you must contact edX through the Help site
-   (http://help.edge.edx.org). Additionally, because this information becomes
-   part of your course URL, the total number of characters in the following
-   four fields must be 65 or fewer.
+  .. nota::  Ingrese la información del nuevo curso cuidadosamente. Esta información se convierte en parte del URL del Curso. Para cambiar el URL despues que el grupo fue creado, debe ponerse en contacto
+             edX atravez de Ayuda del sitio web  (http://help.edge.edx.org).Adicionalmente, esta información formará parte del URL del curso, el número total de carateres en los cuatro campos debe ser de 65 o menos.
 
-  * For **Course Name**, enter the title of your course. For example, the name
-    may be “Sets, Maps and Symmetry Groups". Use title capitalization for the
-    course title.
+  * Para **Nombre del Curso**, ingrese el nombre del curso. Por ejemplo, el nombre puede ser  “Sets, Mapas y Simetría Grupos". Use letras en mayúsculas para el nombre del título.
 
-  * For **Organization**, enter the name of your university. Do not include
-    whitespace or special characters.
+  * Para  **Organización**, ingresar el nombre de su universidad. No ingluya espacios en blaco y caracteres especiales.
 
-  * For **Course Number**, enter both a subject abbreviation and a number. For
-    example, for public health course number 207, enter **PH207**. For math
-    course 101x, enter **Math101x**. Do not include whitespace or special
-    characters in the course number.
+  * Para  **Número del Curso**, ingrese la abreviatura y el número de la asignatura. Por ejemplo, de un curso de salud pública número 207, ingrese **PH207**.
+    Para un curso de matemáticas 101x ingrese **Mat101x**. No se incluyen espacios en blanco o caracteres especiales en número del curso.
 
-    .. note:: If your course will be open to the world, be sure to include the
-     "x". If it is exclusively an on-campus offering, do not include the "x".*
+    .. nota:: Si el curso es a nivel mundial, debe ser incluido un "x". Si es exclusivo de un campus, no incluya "x".
 
-  * For **Course Run**, enter the term your course will run. Do not include
-    whitespace or special characters.
+  * Para  **Ejecución del Curso**, escriba el término de su curso que se  desarrollará. No incluya espacios en blanco o caracteres especiales.
 
-    The Course Run date you enter does not affect the default **Course Start
-    Date**.  See :ref:`Set Important Dates for Your Course` for more
-    information.
+    La fecha de ejecución del curso debe ser ingresado sin afectar  **Fecha de inicio del curso**.
+    Ver :ref:`Establecer las fechas importantes del curso` para más información.
 
-4. Click **Save.**
+4. Click **Guardar.**
 
-You then see the empty Course Outline.
+A continuación, verá el esquema del curso vacío.
 
 .. _Edit Your Course:
 
 ************************
-Edit Your Course
+Editar Curso
 ************************
-When you create a new course, the course opens in Studio automatically and you
-can begin editing.
+Cuando se crea un nuevo curso, el curso se abre en la sesión de estudio de forma automática y se puede comenzar a editar.
 
-If you come back to Studio later, your courses are listed on the Studio login
-page.
+.. _Edit Your Course:
+
+Cuando se retorna a la sesión de estudio, los cursos se enumeran en la página de inicio.
 
  .. image:: ../Images/open_course.png
-  :alt: Image of the course on the Studio dashboard
+  :alt: Imagen del curso en el panel de control de estuido
  
-To open the course, click the course name. You go to the Course Outline. 
+Abra el cursoTo, click en el nombre del curso. Ir al esquema del curso. 
 
 .. _Use the Course Checklist:
 
-************************
-Use the Course Checklist
-************************
+********************************
+Lista de verificación del curso
+********************************
 
-You can use a Course Checklist within Studio to help you work through the tasks
-of building a course.
+Puede utilizar una lista de verificación del curso dentro de estudio para ayudarle a trabajar a través de las tareas de construcción de un curso.
 
-Categories of tasks in the Course Checklist include:
 
-* Getting Started with Studio
-* Draft a Rough Course Outline
-* Explore edX's Support Tools
-* Draft Your Course About Page
+Las categorías de las tareas en el lista de verificación del curso incluyen:
 
-From the **Tools** menu, select **Checklists**.
+* Introducción al estudio
+* Elaboración de un esquema del curso
+* Explorar las herramientas de soporte de EDX
+* Proyecto del curso sobre la página
+
+Para las  **Herramientas** menú, seleccionar **lista de verificación**.
 
  .. image:: ../Images/checklist.png
   :alt: Image of the course checklist
  
+Como se muestra anteriormente para ** Añadir miembros al curso **, si se envia una tarea, se podrá acceder a ella mediante un botón, que redireccionará a la página para completar dicha tarea.
 
-As shown above for the **Add Course Team Members** task, if you hover over a
-task, a button is displayed that takes you to the page to complete that task.
+Puede expandir y contraer secciones de esta página según sea necesario.
 
-You can expand and collapse sections of this page as needed.
-
-You can check tasks as you complete them. Studio saves your changes
-automatically. Other course staff can see your changes.
+Las tareas pueden ser comprobadas a medida que van siendo finalizadas. En la sesión de estudio los cambios son guardados automáticamente. Otros miembros del curso puede ver los cambios.
 
 .. _Add Course Team Members:
 
-************************
-Add Course Team Members
-************************
+*************************
+Añadir miembros al curso
+*************************
 
-Course team members are users who help you build your course.
+Los miembros del curso son usuarios quienes ayudan a la elaboración del cursoe.
 
-Only a team member with Admin access can add or remove course team members, or
-grant Admin access to other team members.
+Solo un miembro con accesos de administrador puede añadir, eliminar o dar acceso de asdministrador a otros usuarios.  
 
-Other course team members can edit the course and perform all tasks except
-adding and removing other new team members and granting Admin access.
+Otros miembros del curso pueden editar y realizar todas las tareas, excepto añadir y eliminar otros nuevos miembros del equipo y dar acceso de administrador.
 
-.. note::  Any course team member can delete content created by other team
- members.
+.. nota:: Ningun miembro del curso puede borrar contenido creado por otros miembros.
 
-All course team members must be registered with Studio and have an active
-account.
+Todos los miembros del curso deben estar registrados y con una cuenta activa en la sessión de estudio.
 
-To add a course team member:
+Añadir miembros al Curso:
 
-#. Ensure you have Admin access.
-#. Ensure that the new team member has registered with Studio.
-#. From the **Settings** menu, select **Course Team**.
-#. Click **Add a New Team Member**.
-#. Enter the new team member's email address, then click **ADD USER**.
+#. Asegúrese de que tiene acceso de administrador.
+#. Asegúrese de que el nuevo miembro del equipo se ha registrado.
+#. En el menú **Ajustes **, seleccione ** Equipo del Curso **.
+#. Haga click ** agrega nuevo miembro al equipo **.  
+#. Introduzca la dirección de correo electrónico del nuevo miembro del equipo, a continuación, haga click en **AÑADIR USUARIO**.
 
-You can also assign privileged roles to users when you work in the LMS.
-Regardless of where the role is assigned, these administrative team members can
-work on your course in both the LMS and in Studio. For more information on
-assigning roles while you run your course, see
-:ref:`Course_Staffing`.
+También puede asignar funciones privilegiadas a los usuarios cuando se trabaja en el LMS.
+Independientemente el rol que se asigne, estos los miembros administrativos del equipo  pueden trabajar en su curso, tanto en el LMS como en el estudio. Para obtener más información sobre la asignación de
+roles mientras se  ejecuta el curso, ver :ref:`Personal de Curso`.
+
