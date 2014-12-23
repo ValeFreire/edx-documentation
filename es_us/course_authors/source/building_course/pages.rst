@@ -1,128 +1,132 @@
 .. _Adding Pages to a Course:
 
 ###########################
-Adding Pages to a Course
+Añadir paginas al Curso
 ###########################
 
 
 *******************
-Overview
+Vista General
 *******************
 
-By default, your course has the following pages:
+Por defecto, los cursos tienen las siguientes páginas:
 
 * Courseware
-* Course Info
-* Discussion
+* Info. Curso
+* Discusiones
 * Wiki
-* Progress
+* Progreso
 
-You cannot rename, reorder, or remove these pages.
+No se puede renombrar, reordenar o remover esas paginas.
 
-You can add pages to your course. Each page appears in your course's navigation bar. 
+Se pueden añadir páginas al curso.Cada página aparcerá en la barra de navegación del curso.
 
-For example, the following navigation bar includes the default pages as well as the
-**Course Schedule** and **Supplements & Instructor's Blog** pages.
+Por ejemplo, la siguiente barra de navegación incluye las páginas predeterminadas, así como el ** Horario del curso ** y ** Suplementos & Instructor de blog **. 
 
 .. image:: ../Images/page_bar_lms.png
  :alt: Image of the page bar in the LMS
 
-You can create other pages for the grading policy, course slides, or any other purpose. More examples of pages you can add are:
+Puede crear otras paginas para las políticas de calificación del curso, diapositivas del curso, u otros propositos.Mś ejemplos de páginas que pueden ser agragadas son:
 
-* A Google calendar, by embedding the code for it.  
+* Google calendar, para ser embebido en el código.  
 
-* A dynamic HTML calendar, using the template in :ref:`Code for Dynamic HTML Schedule`.
+* Un calendario HTML dinamico, usando en la plantilla :ref:`Codigo HTML dinámico para Horarios`.
 
-* An instant hangout.  See :ref:`Google Instant Hangout` for more information.
+* Un  hangout instantánea.  Para más información ver :ref:`Google Instant Hangout`.
 
-See:
+Ver:
 
-* :ref:`Add a Page`
-* :ref:`Show or Hide the Course Wiki Page`
-* :ref:`Reorder Pages`
-* :ref:`Delete a Page`
-* :ref:`Code for Dynamic HTML Schedule`
+* :ref:`Añadir Página`
+* :ref:`Mostrar u ocultar el Curso Página Wiki`
+* :ref:`Reordenar Páginas`
+* :ref:`Borrar Páginas`
+* :ref:`Código para el horario HTML dinámico`
 
 
-.. _`Add a Page`:
+.. _`Añadir Página`:
 
-****************
-Add a Page
-****************
+********************
+Añadir nueva Página
+********************
 
-#. In Studio, from the **Content** menu, select **Pages**. 
+#. Es estudio, desde el meú de  **Contenidos** , seleccione **Páginas**. 
 
   .. image:: ../Images/pages_page.png
    :alt: Image of the Pages screen
 
 
-2. Click **Add a New Page**. A page with the title **Empty** is added to the list:
+2. Click en **Añadir nueva página**. Una página con el título **Vacio** Es añadida a la lista:
 
   .. image:: ../Images/pages_empty.png
    :alt: Image of the Pages screen with a new Empty page
 
-3. Click **Edit**. The HTML editor opens.  
+3. Click en **Editar**. El editor editor se abre.  
 
   .. image:: ../Images/pages_editor.png
    :alt: Image of the Page editor
 
-4. Enter text for your page. See :ref:`Options for Editing HTML Components` for more information about using the editor.
-#. Click **Settings** to edit the **Display Name**. The display name is the name of the page visible to students in the course.
-#. Click **Save**. 
+4. Ingresar texto para el curso. Para mayor información ver :ref:`Opciones para la Edición de Componentes HTML` acerca del uso del editor.
+#. Click en  **Ajustes** editar el  **Nombre a Visualizar**. El nombre a visualizar es el nombre de la página que será visible para los estudiantes en el curso.
+#. Click en  **Guardar**. 
 
-The new page is immediately available to students, if the course has started.
+La nueva página es inmediatamente disponibles para los estudiantes, si el curso ha empezado.
 
-.. _Show or Hide the Course Wiki Page:
+.. _Mostrar u ocultar el Curso Página Wiki:
 
 ************************************************
-Show or Hide the Course Wiki Page
+Mostrar u ocultar el Curso Página Wiki
 ************************************************
 
-By default, your course includes a Wiki page. Students and course staff can use the Wiki to post content and comment on others' content.
+Por defecto, el curso incluye una página Wiki. Estudiantes y staff del curso pueden usar la Wiki para publicar contenido y comentar en otros contenidos.
 
-If you do not want to use the Wiki in your course, you can hide the page.
+Si ud. no quiere usar la Wiki en el curso, se puede ocultar la página.
 
-The eye icon in the Wiki object indicates that the Wiki page is visible in your course:
+El ícono del ojo en el objeto Wiki indica que la página Wiki es visible en el curso:
 
 .. image:: ../Images/pages_wiki_on.png
  :alt: Image of the Pages page with the Wiki made visible
 
-Click the eye icon to hide the Wiki page. The icon changes:
+Click en el ícono del ojo para poder ocultar la Wiki de la página. El cambio de ícono:
 
 .. image:: ../Images/pages_wiki_off.png
  :alt: Image of the Pages page with the Wiki made visible
 
-Click it again to make the Wiki page visible.
+Haga clic de nuevo para hacer la página Wiki visible.
 
-.. note:: Content remains in the Wiki when you hide the page. For example, if a student bookmarks a Wiki topic, then you hide the Wiki page, the student can still use the bookmark to access that Wiki topic. All content that was previously posted in the Wiki remains available after you hide the Wiki page, and any students logged in to edX can access the content if they know the URL. 
+.. note:: Contenido permanece en el Wiki cuando se oculta la página. Por ejemplo, si un estudiante marca un tema Wiki, luego la página Wiki es ocultada, 
+el estuduante puede aun usar el bookmar para accedet al tema en el Wiki. Todos los contenidos que estan previamente publicados en el Wiki queda disponible después de ocultar la página wiki, y cualquier
+ estudiante e ingresados pueden acceder al contenido si conocen la URL.
+ 
 
-.. _Reorder Pages:
+.. _Reordenar Páginas:
+
+******************
+Reordenar Páginas
+******************
+
+
+Puede cambiar el orden de las páginas del curso arrastrando y soltando las páginas a diferentes lugares. 
+
+Para mover una página, coloque el cursor sobre el elemento en la parte derecha de la fila de la página hasta que el puntero del ratón cambia a una flecha de cuatro puntas. 
+Luego, haga clic y arrastre la página a la ubicación que desee.
+
+.. note:: No se puede cambiar el orden de los Materiales Formativos, Información del Curso, Discusión, Wiki, y las páginas de progreso que su curso incluye por defecto.
+
+.. _Borrar Páginas:
 
 ****************
-Reorder Pages
+Borrar Páginas
 ****************
 
-You can reorder pages in your course by dragging and dropping the pages to different locations. 
+Borrar una página que esta previamente añadida, haga clic en el icono de papelera en la fila de la página. Se le solicitará que confirme la eliminación.
 
-To move a page, hover over the element handle on the right side of the page row until the mouse pointer changes to a four-headed arrow. Then, click and drag the page to the location that you want.
+.. _Código para el horario HTML dinámico:
 
-.. note:: You cannot reorder the Courseware, Course Info, Discussion, Wiki, and Progress pages that your course includes by default
+*************************************
+Código para el horario HTML dinámico
+*************************************
 
-.. _Delete a Page:
-
-****************
-Delete a Page
-****************
-
-To delete a page that you previously added, click the trash can icon in the row for the page.  You are prompted to confirm the deletion.
-
-.. _Code for Dynamic HTML Schedule:
-
-********************************
-Code for Dynamic HTML Schedule
-********************************
-
-You can use the following code in a page to provide a dynamic HTML schedule in your course.
+Se puede usar el siguiente código en la página para proporcionar una programación HTML dinámico en su curso.
 
 .. code-block:: html
 

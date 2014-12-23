@@ -1,50 +1,47 @@
 .. _Adding Course Updates and Handouts:
 
 ######################################################
-Adding Course Updates and Handouts
+Adición de Actualizaciones y Documentos del Curso 
 ######################################################
 
-You add course updates and handouts in Studio.
+Añadir actualizaciones y folletos en ls sessión de estudios.
 
-Student's see the course updates and handouts in the **Course Info** tab in your
-course:
+Los estudiantes pueden ver las actualizaciones y los folletos en la pestaña de **Información del Curso**:
 
 .. image:: ../Images/course_info.png
  :alt: Image of the Course Info page.
 
 .. _Add a Course Update:
 
-**********************
-Add a Course Update
-**********************
+*******************************
+Añadir una nueva actualización
+******************************
 
-You add updates to notify students of exams, changes in the course schedule, or
-anything else of a more urgent nature.
+Usted añade actualizaciones para notificar a los estudiantes de los exámenes, cambios en el horario del curso, o cualquier otra cosa de carácter más urgente.
 
-To add a course update:
+Para agregar un curso de actualización:
 
-#. From the **Content** menu, select **Updates**. 
-#. Click **New Update**.
-#. Enter your update in the HTML editor that opens.
+#. Desde el menú **Contenido *, seleccione **Actualizaciones**.
+#. Haga click **Nueva Actualización**.
+#. Introduzca su actualización en el editor de HTML que se abre.
 
-  .. note::  You must enter the update in HTML. 
+  .. note::  Se debe ingresar a actualizar en HTML. 
 
-4. Click **Save**.
+4. Click **Guardar**.
 
 .. _Add Course Handouts:
 
-**********************
-Add Course Handouts
-**********************
-You can add course handouts that are visible to students on the **Course Info**
-page. To add an uploaded file to the course handouts, you will need its URL.
+*************************
+Añadir folletos al curso
+*************************
 
-.. note::  You must :ref:`Add Files to a Course` before you can add them as
- course handouts.
+Puede añadir folletos al curso que son visibles para los estudiantes en la página **Información del Curso**. Para agregar un archivo cargado en los folletos del curso, es necesario su URL.
 
-#. From the **Content** menu, select **Updates**. 
-#. In the **Course Handouts** panel, click **Edit**.
-#. Edit the HTML to add links to the files you uploaded. See :ref:`Add a Link in
-   an HTML Component` for more information.
-#. Click **Save**.
+.. note:: Usted debe :ref:`Añadir de archivos a una Curso` antes de que usted puede añadirlos como
+  folletos del  curso.
+
+#. Desde el menú **Contenido **, seleccione **Actualizaciones**.
+#. En el panel en  **Folletos del Curso **, haga click en ** Editar **.
+#. Ver :ref:`Añadir un Enlace en un Componente HTML`para más información.
+#. Haga click en **Guardar**.
 

@@ -1,230 +1,199 @@
 .. _Establish a Grading Policy:
 
-##############################
-Establishing a Grading Policy  
-##############################
+#######################################
+Establecer políticas de calificaciones  
+######################################
 
-*******************
-Overview
-*******************
+****************
+Visión General
+****************
 
-Establishing a grading policy takes several steps. You must:
+El establecimiento de una política de evaluación tiene varios pasos. Usted debe:
 
-#. :ref:`Set the Grade Range`
-#. :ref:`Set the Grace Period`
-#. :ref:`Configure the Assignment Types`
-#. :ref:`Graded Subsections`
-#. :ref:`The Student View of Grades`
+#. :ref:`Establecer el rango de las calificaciones`
+#. :ref:`Configurar el periodo de calificación`
+#. :ref:`Configuracion de tipos de tareas`
+#. :ref:`Calificación de Subsecciones`
+#. :ref:`Visión de calificacione para los estudiantes`
 
-.. important:: Any changes to the course grading policy, to graded 
- subsections, or to graded components after a course begins will affect the
- student experience in the course and analysis of its data. 
+.. important:: Algunos cambios de políticas de calificaciones, calificación de subcciones o calificaciones de componente depués de iniciado el curso pueden afectar la esperiencia de los estudiantes en el 
+	       curso y el analisis de los datos. 
 
 .. _Set the Grade Range:
 
-*******************
-Set the Grade Range
-*******************
+***************************************
+Establecer rango de las calificaciones
+***************************************
 
-You must set the grade range for the course.  For example, your course can be
-pass/fail, or can have letter grades A through F.
+Se debe establecer el rango de las calificaciones para el curso. Por ejemplo, el curso se puede pasar/perder, o pueden tener calificaciones de la A a la F
 
-To set the grade range, from the **Settings** menu, select **Grading**.
+Para establecer el rango, en el menú "Ajustes", selecciones **Calificaciones**.
 
-The control for the grade range is at the top of the Grading page.
+El control del rango esta en la parte superior de la pagina en calificaciones.
 
 .. image:: ../Images/grade_range.png
   :alt: Image of the Grade Range control
 
-The above example shows that you have a pass/fail grade range, with a score of
-50 as the cutoff. This is the default setting used when you create a course.
+El ejemplo anterior muestra que usted tiene pasado/fallido dentro del rando de calificaciones, con una puntuación de 50 como punto de corte. Esta es la configuración por defecto utilizado al crear un curso.
 
-You use the grade range control to change these settings:
+Se utiliza el control de rango de calificaciones para cambiar estos ajustes:
 
-* To add a grade in the range, click the **+** icon.
+* Añadir una nueva calificación en el rango, haga click en el icono ** + **.
 
-  A new grade is added to the range between the existing grades. For example,
-  if you add a grade in the default setting, the grade range changes to **F**
-  (0 to 50), **B** (50 to 75), and **A** (75 to 100):
+   Una nueva calificación  se añade  entre las ya  existentes. Por ejemplo, si agrega una nueva  en la configuración por defecto, el rango seria  para **F** (0 a 50), **B**(50 a 75), y **A** (75 a 100):
 
   .. image:: ../Images/grade_range_b.png
     :alt: Image of an altered Grade Range control
 
-* To change the score range, move the cursor over the line dividing two grades
-  and then click and drag the line left or right.
 
-  You can see the range numbers of the two grades adjacent to the line change.
-  Release the mouse button when the line is where you want it.
-  
-* To change the name of the grade, double-click the current name of the grade
-  to select it, and then start typing the name of the new grade. For example,
-  if the original name of the grade is "Pass", you can double-click "Pass" and
-  then type "Excellent" to replace the name.
+* Para cambiar el rango de puntuación, mueva el cursor sobre la línea que divide las calificaciones  y luego haga click y arrastre la línea hacia la izquierda o derecha.
 
-  You cannot change **F** or **Fail**. 
+   Usted puede ver los números del rango de las calificaciones adyacentes a la línea de cambio.
+   Suelte el botón del ratón cuando la línea este donde usted lo desee.
 
-* To remove a grade, move the cursor so that it is over the grade. 
+* Para cambiar el nombre de la nota, haga doble click en el nombre actual de la calificación para seleccionarlo, y luego comenzar a escribir el nuevo nombre. Por ejemplo, si el nombre original de la nota
+ es "Aprobado", puede hacer doble click en "Aprobado" y luego escribe "Excelente" para reemplazar el nombre.
 
-  A **remove** link appears above the grade. Click the link.
-  
-  You cannot remove F or A.
-  
-After you make any changes to the grade range, you must click **Save Changes**
-at the bottom of the page.
+   No se puede cambiar **F** o **Falla**.
+
+* Para eliminar una nota, mueva el cursor de modo que este queda encima de otra nota.
+   Un **enlace **aparece por encima de la calificación. Haga click en el enlace.
+
+   No se puede quitar F o A.
+
+Después de realizar cualquier cambio en el rango de calificaciones, debe hacer click en **Guardar Cambis ** en la parte inferior de la página.
+
 
 .. _Grade Ranges and Certificates:
 
 ==============================
-Grade Ranges and Certificates
+Rangos de Grado y certificados
 ==============================
 
-If you plan for your course to offer certificates, note that a student will
-qualify for a certificate by earning any grade over the F, or Fail, threshold.
-This is true regardless of how many grade levels you add in the grade range.
+Si usted planea para su curso ofrecer certificados, tenga en cuenta que la calificación de los  estudiantes para obtener un certificado mediante la obtención de cualquier calificación sobre F, o fallar.
+Esto es independientemente del número de niveles de grado se agrega en el rango de grado.
 
 .. _Set the Grace Period:
 
-*************************
-Set the Grace Period 
-*************************
-    
-You can set a grace period that extends homework due dates for your students. 
+*************************************
+Establecer periodo de Calificaciones
+************************************
 
-.. note:: The grace period applies to the whole course; you cannot set a grace
- period for individual assignments.
-  
-In the Grading page, under **Grading Rules & Policies**, enter a value in the
-**Grace Period on Deadline** field. Enter the value in Hours:Minutes format.
+Puede establecer un período de gracia para que  extienda las fechas de vencimiento de las tarea.
+
+.. note:: El período de gracia se aplica a todo el curso; no se puede establecer un período de gracia para las asignaciones individuales.
+
+En la página de calificación, en **Reglas y políticas que calificanción**, introduzca un valor en el campo **Período de Gracia**. Introduzca el valor en formato Horas: Minuto.    
 
 .. _Configure the Assignment Types:
 
 ******************************
-Configure the Assignment Types
+Configurar tipos de tareas
 ******************************
 
-You must create assignment types for your course and determine the weight of
-the student's total grade for each assignment type.
+Se debe crear el tipo de tarea para el curso y determinar el peso de la calificación para cada tipo de asignación.
 
-For example, you may have:
+Por ejemplo, se debe tener:
 
-* 10 homework assignments, worth a total of 50% of the grade; 
-* A midterm exam, worth a total of 20% of the grade; 
-* A final exam, worth 30% of the grade. 
+* 10 deberes asignados, la nota total es del 50%; 
+* Un examen, el  20% de la nota; 
+* Un examen final, el 30% de la nota. 
 
-By default, a new course you create has four assignment types: 
+Por defecto cada curso se crea con cuatro tipos de tareas: 
 
-* Homework
+* Deberes
 * Lab
-* Midterm Exam
-* Final Exam
+* Examen Intermedio
+* Examen Final
 
-You can use these assignment types, modify or remove them, and create new
-assignment types.
+Se pueden utilizar, modificar o remover cualquier tipo de tareas, y crear uno nuevo si es necesario.
 
-To create a new assignment type, in the bottom of the Grading page, click **New
-Assignment Type**, then configure the fields described below.
+Para crear un nuevo tipo de tarea, en el boton en la pagina de Calificaciones, click en **Nuevo tipo de tarea**, configurar los campos que se describen a continuación. 
 
 ==========================
-Assignment Type Fields
+Campos de tipos de tareas
 ==========================
-You configure the following fields for each assignment type:
+
+La configuración de los campos para cada tipo de tarea es la siguiente:
     
-* **Assignment Type Name:** 
+* **Nombre:** 
   
-  The general category of the assignment. This name will be visible to
-  students.
+  Categoria general de la tarea. Ese nombre será visible para los estudiantes.
  
-  .. note:: All assignments of a particular type count the same toward the
-   weight of that category. As a result, a homework assignment that contains
-   10 problems is worth the same percentage of a student's grade as a homework
-   assignment that contains 20 problems.
-  
-* **Abbreviation:** 
-  
-  This is the short name that appears next to an assignment on a student's
-  **Progress** tab.  
+  .. note:: Todas las tareas de un tipo particular cuentan con el mismo peso de esa categoría. Como resultado,una tarea que contiene 10 problemas vale el mismo porcentaje de la calificación 
+             como una tarea que contiene 20 problemas.
 
-* **Weight of Total Grade:** 
+* ** Advertencia: **
+
+   Este es el nombre corto que aparece junto a una tarea de los estudiantes **Progreso**.
+
+* ** Pero total de la Calificacón: **
+
+   Las tareas de este tipo en conjunto representan el valor del porcentaje establecido en  ** Peso total de la Calificación**.
+
+   El peso total de todos los tipos de asignación debe ser igual a 100.
+   
   
-  The assignments of this type together account for the percent value set in
-  **Weight of Total Grade**.
+  .. note:: No incluye el signo  (%) en este campo.
   
-  The total weight of all assignment types must equal 100.
-  
-  .. note:: Do not include the percent sign (%) in this field.
-  
-* **Total Number:** 
-  
-  The number of assignments of this type that you plan to include in your
-  course.
-  
-* **Number of Droppable**
-  
-  The number of assignments of this type that the grader will drop. The grader
-  will drop the lowest-scored assignments first.
+* **Total numerico:**
+
+El número de tareas de este tipo que va a incluir en su curso.
+
+* ** Número de Droppable **
+
+   El número de tareas de este tipo que  se incluirán en el curso.
+   La primera calificación con menor puntaje de la tarea será dada de baja
 
 .. _Graded Subsections:
 
-**********************************************
-Graded Subsections
-**********************************************
+******************************
+Calificación de Subsecciones
+******************************
 
-After you configure assignment types, as you are organizing your course, you
-set the assignment type for subsections that contain problems that are to be
-graded.
+Después de configurar tipos de asignación, la organización del curso, se establece el tipo de asignación de los incisos que contienen los problemas que han de ser calificados.
 
-Each subsection that contains problems to be graded can include only one
-assignment type. 
+Cada subsección que contiene problemas que serán calificados puede incluir un solo tipo de asignación.
 
 .. note:: 
- You can only set assignment types and due dates at the subsection level. You
- cannot set assignment types or due dates for entire sections or for individual
- units within subsections. Additionally, you can designate a subsection as one,
- and only one, of the assignment types you configured.
+ 
+ Sólo se pueden establecer tipos de asignación y las fechas de vencimiento en el nivel de subsección. No se puede establecer tipos de asignación o fechas de vencimiento para 
+ secciones enteras o por unidades individuales dentro de las subsecciones. Además, puede designar a una subsección como uno, y sólo uno, de los tipos de asignación que ha configurado.
+ Se puede solo configurar un tipo de tarea.
   
-See :ref:`Developing Course Subsections` for general instructions on
-configuring a subsection.
+See :ref:`Desarrollo Subsections del Curso` para obtener instrucciones generales sobre la configuración de una subsección.
 
-See :ref:`Set the Assignment Type and Due Date for a Subsection` for
-instructions on designating a subsection as a graded assignment.
 
-Within a graded subsection, you create problems of the type designated for that
-subsection. You cannot not mix problems of different assignment types in the
-same subsection.
+See :ref:` Configurar el tipo de tarea y la fecha de vencimiento de la subsección` para obtener instrucciones sobre la designación de una subsección como tarea calificada.
 
-For example, if you want to create a homework assignment and a lab for a
-specific topic, create two subsections. Set one subsection as the Homework
-assignment type and the other as the Lab assignment type. Both subsections can
-contain other content as well as the actual homework or lab problems.
+En una subsección calificada, crea problemas de tipo designado para esa subsección. Se pueden mezclar los problemas de diferentes tipos de asignación en el mismo apartado.
+
+Por ejemplo, si desea crear una tarea y un laboratorio para un tema específico, cree dos subsecciones. Establezca una subsección como el tipo Deberes y el otro como 
+el tipo de asignación Lab. Ambas subsecciones pueden constar de otros contenidos, así como los deberes o problemas de laboratorio.
 
 .. note:: 
- You can create problems in Studio without specifying that the subsection is an
- assignment type. However, such problems do not count toward a student's grade.
+ Se pueden crear problemas en la sección de estudio sin especificar que la subsección es un tipo de asignación. Sin embargo, estos problemas no cuentan para la calificación 
+ del estudiante.
 
-See :ref:`Working with Problem Components` for instructions on creating
-problems.
+See :ref:`Trabajar en Contenidos con problemas` para obtener instrucciones sobre cómo crear problemas.
 
 .. _The Student View of Grades:
 
-**************************
-The Student View of Grades
-**************************
+*********************************************
+Vista de calificaciones para los estudiantes
+*********************************************
 
-After a grading policy is in place, students can view both their problem scores
-and the percent completed and current grade in the **Progress** tab for the
-course.
+Después de establecer una política de calificaciones, los estudiantes pueden ver tanto en sus puntajes de problemas, el porcentaje completado y las calificaciones 
+actuales en la pestaña de **Progreso ** del curso.
   
   .. image:: ../Images/Progress_tab.png
     :alt: Image of the student Progress tab
 
-Each item in the X axis of the chart is for a graded subsection. Graded
-problems in units are not broken out in the chart; the score from each problem
-in the subsection is added to that vertical bar.
+Cada elemento en el eje X de la tabla es para una subsección calificada. 
+Problemas calificados en unidades no se desglosan en la tabla; la puntuación de cada problema en la subsección se suma a la barra vertical.
 
-Graded subsections are grouped in the chart by assignment type rather than
-listed in chronological order. For example, all homework exercises are grouped
-together, followed by labs, then exams.
+Subsecciones calificadas se agrupan en la tabla por tipo de asignación en lugar de la lista en orden cronológico. Por ejemplo, todos los ejercicios de tarea se agrupan, 
+seguido por los laboratorios, a continuaciónde  los exámenes.
 
-.. note:: The **x** for an assignment in the Progress tab indicates that the 
- grade for that assignment is currently dropped. You configure how many
- assignments are dropped when you :ref:`Configure the Assignment Types`.
+.. note:: La ** x ** para una asignación en la table de progreso indica que la calificación de esa asignación que pueden ser ignoradas. 
+          Puede configurar el número de asignaciones que no serán parte del promedio, en : ref: `Configurar tipos de tareas en construcción`.

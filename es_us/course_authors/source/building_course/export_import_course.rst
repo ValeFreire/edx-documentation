@@ -33,7 +33,7 @@ Al exportar un curso, cree un archivo **.tar.gz* que incluya los siguientes dato
  
 .. warning::
 
-	Cuendo se exporta un curso, Al exportar un curso, tenga en cuenta que la información tal como llaves API MATLAB, pasaportes LTI, cadenas secretas token y URL almacenados están incluidos en los datos
+	Cuendo se exporta un curso, al exportar un curso, tenga en cuenta que la información tal como llaves API MATLAB, pasaportes LTI, cadenas secretas token y URL almacenados están incluidos en los datos
         exportados. Si comparte los  archivos exportados, también puede intercambiar información sensible o licencias específicas
 
 La siguiente información no es exportada con el curso

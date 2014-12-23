@@ -1,13 +1,12 @@
 .. _Setting up Your Course Index:
 
 ##########################
-Setting up Your Course
+Preparación de su Curso
 ##########################
 
-Use the chapters in this section to create and build your course.
+Utilice los capítulos de esta sección para crear y construir su curso.
 
-For information on how to develop your course content in the Studio Outline
-page, see :ref:`Developing Your Course Index`.
+Para obtener información sobre cómo desarrollar su contenido del curso en la página en la sección de estudio, ver: ref:`Desarrollo del Index del Curso`.
 
 .. toctree::
    :maxdepth: 2
