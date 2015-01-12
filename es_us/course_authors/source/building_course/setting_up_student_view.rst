@@ -1,47 +1,44 @@
-.. _Setting up the Student View:
+.. _Configuración de la vista del estudiante:
 
 ######################################################
-Setting up the Student View
+Configuración de la vista del estudiante
 ######################################################
 
 
-*******************
-Overview
-*******************
+***************
+Vista General
+***************
 
-This chapter describes how you set up your course to be displayed in the course
-summary page and in a student's **Current Courses** dashboard. The information
-you configure for your course is important for prospective and current students
-to understand.
 
-See:
+En este capítulo se describe la forma de configurar el curso que se mostrará en la página de resumen del curso y en ** Cursos actuales del estudiante **.
+La información que se configura para su curso es importante para los estudiantes actuales y futuros.
 
-* :ref:`The Course Summary Page`
-* :ref:`The Student Dashboard`
-* :ref:`Set Important Dates for Your Course`
-* :ref:`The Course Start Date`
-* :ref:`Set the Advertised Start Date`
-* :ref:`The Course End Date`
+Ver:
+
+* :ref:`Resumen del curso`
+* :ref:`Panel de Control del Estudiante`
+* :ref:`Establecer fechas importantes para el Curso`
+* :ref:`Fecha para iniciar el Curso`
+* :ref:`Ajustar la fecha de inicio del anuncio`
+* :ref:`Fecha del Final del Curso`
 * :ref:`Describe Your Course`
-* :ref:`Add a Course Image`
-* :ref:`Add a Course Video`
-* :ref:`Set Course Requirements`
-* :ref:`A Template For Course Overview`
+* :ref:`Añadir imagen al curso`
+* :ref:`Añadir videa al curso`
+* :ref:`Ajustar requerimientos para el curso`
+* :ref:`Modelo para la vista general del curso`
 
 
 .. _Edge: http://edge.edx.org
 .. _edX.org: http://edx.org
 
-.. _The Course Summary Page:
+.. _Resumen del curso:
 
-***********************************
-The Course Summary Page
-***********************************
+*****************************
+Resumen del Curso
+*****************************
 
-The following image shows an example course summary page.  Students can see the
-course summary page before they enroll in the course, and may decide to enroll
-based on the content of the page. You configure the contents of this page in
-Studio, as described in this chapter:
+La imagen que se muestra a continución es un ejemplo de una página de resumen de cursoe. Los estudiantes pueden ver el resumen del curso antes de que ellos se
+inscriban en el curso, y puedan decidir basandose en el contenido de la página. Configurar el contenido de la página de estudio, como se describe en este capítulo:
 
 .. image:: ../Images/about_page.png
  :alt: An image of the course summary page.
@@ -49,179 +46,153 @@ Studio, as described in this chapter:
 
 
 
-.. _The Student Dashboard:
+.. _Panel de Control del Estudiante:
 
 ***********************************
-The Student Dashboard
+Panel de Control del Estudiante
 ***********************************
 
 
-If a student enrolls in your course, the course is then listed on the **Current
-Courses** dashboard, with the course image.  From the dashboard, a student can
-open a course that has started. If the course has not started, the student can
-see the start date, as explained in this chapter.
+Si un estudiante inscrito en el curso, el curso se enumera a continuación, en el panel de control en **Cursos Actuales **, 
+la imagen del curso. Desde el panel de control, un estudiante puede abrir un curso que ha comenzado. Si el curso no se ha iniciado, el alumno puede ver la fecha de inicio, como se explica en este capítulo.
 
 .. image:: ../Images/dashboard.png
  :alt: An image of the dashboard
 
 
 
-.. _Set Important Dates for Your Course:
+.. _Establecer fechas importantes para el Curso:
 
-***********************************
-Set Important Dates for Your Course
-***********************************
+********************************************
+Establecer fechas importantes para el Curso
+********************************************
 
-You must set dates and times for enrollment and for the course.
+Se debe ajustar las fechas y tiempos para las inscripciones y para el curso.
 
-In Studio, from the **Settings** menu, select **Schedule and Details**.  
+Es estudios, desde el menu  **Ajustes**, seleccione  **Horarios y Detalles**.  
 
 .. image:: ../Images/schedule.png
   :alt: An image of the course schedule page.
 
-Follow the on-screen text to enter the course and enrollment schedule.
+
+Sigue el texto de la pantalla para ingresar curso y horario de matriculas.
 
 .. note:: 
- The Time fields on this page, and the times that students see, use UTC
- (Universal Coordinated Time)
+
+ Los campos de hora de esta página, y las veces que los estudiantes ven, usan UTC
+  (Tiempo Universal Coordinado)
 
 
-.. _The Course Start Date:
+
+.. _Fecha para iniciar el Curso:
 
 ***********************************
-The Course Start Date
+Fecha para iniciar el Curso
 ***********************************
 
-.. note:: The default course start date is set far into the future, to
- **01/01/2030**. This is to ensure that your course does not start before
- you intend it to. You must change the course start date to the date you want
- students to begin using the course.
+.. note:: La fecha predeterminada de inicio del curso  se establece a futuro, a ** 01/01/2030 **. Esto es para asegurar que el curso no se inicia antes de que se requiere. 
+Se debe cambiar la fecha de inicio del curso a la fecha en que desea que los estudiantes comiencen a utilizar el curso.
 
-Students see the course start date and time on their **Current Courses**
-dashboards and on the course About page (sometimes also called the course
-summary page). Students can see some parts of the course before the course start
-date. For example, students can see your **Course Info** page and course-wide
-discussion topics as soon as they enroll in your course. For more information
-about course-wide discussion topics, see :ref:`Create CourseWide Discussion
-Topics`.
+Los estudiantes ven la fecha de inicio del curso y el tiempo en sus paneles de control **Cursos actuales** y 
+en el curso Sobre la página (a veces también llamada la página de resumen del curso). Los estudiantes pueden ver algunas partes del curso antes de la fecha de inicio del curso. 
+Por ejemplo, los estudiantes pueden ver  **Información del Curso** y a todo el curso como  los temas de discusión en cuanto se matriculen al curso. Para obtener 
+más información acerca de los temas de discusión en todo el curso, ver: ref: `Crear Temas de Discución`.
 
-The following example shows the course start date and time on the course summary page:
+El siguiente ejemplo muestra la fecha de inicio del curso y la hora en la página de resumen del curso:
 
 .. image:: ../Images/about-page-course-start.png
  :alt: An image of the course About page, with the start date circled.
 
 .. note:: 
- For courses on edX.org_, you must communicate the course start date and time
- to your edX program manager to ensure the date is accurate on the course
- About page.
+ Para los cursos en edX.org_, deberá comunicar la fecha y la hora de inicio del curso a su director del programa edx para asegurar la fecha es exacta en el curso.
 
-In the dashboard, students see the start dates and times for each of their
-courses, as in the following examples.
+
+En el panel de control, los estudiantes ven las fechas de inicio y los tiempos para cada uno de sus cursos, como en los siguientes ejemplos.
 
 .. image:: ../Images/dashboard-course-to-start.png
  :width: 600
  :alt: An image of two courses in the student dashboard, with the start dates and times circled.
 
-.. note:: If you do not specify a start time for your course, students see
-   the default start time, 00:00 Coordinated Universal Time (UTC).
+.. note:: Si no se especifica una hora de inicio del curso, los estudiantes verán por defecto la hora, 00:00(UTC).
 
 
 
 
-.. _Set the Advertised Start Date:
+.. _Ajustar la fecha de inicio del anuncio:
 
-***********************************
-Set the Advertised Start Date
-***********************************
+***************************************
+Ajustar la fecha de inicio del anuncio
+***************************************
 
-You can set an advertised start date for your course that is different than the
-course start date you set in the **Schedule and Details** page. You may want to
-do this if there is uncertainty about the exact start date. For example, you
-could advertise the start date as **Spring, 2014**.
+Se puede establecer una fecha de inicio del anuncio para el curso que que sea diferente que la fecha de inicio del curso que se establecio en la página de **Horarios y detalles** 
+Es posible que desee hacer esto si existe incertidumbre sobre la fecha de inicio exacta. Por ejemplo, usted podría anunciar la fecha de inicio como **Primavera de 2014**.
 
-To set an advertised start date:
+Establecer la fecha de inicio del anuncio:
 
-#. From the **Settings** menu, select **Advanced Settings**.
-#. Find the **Course Advertised Start Date** policy key. The default value is
-   **null**.
-#. Enter the value you want to display as the advertised start date. You can
-   use any string, enclosed in double quotation marks. If you format the string
-   as a date (for example, as 02/01/2014), the value is parsed and presented to
-   students as a date.
+#. Desde el menú  **Ajustes**, selecciones  **Ajustes de Anuncio**.
+#. Buscar  **Fecha de inicio del anuncio del curso** . Por defecto el valor es **null** 
+#. Introduzca el valor que desea visualizar como la fecha de inicio. Puede utilizar cualquier cadena, encerrado entre comillas dobles. Si formatea la 
+   cadena como una fecha (por ejemplo, como 02/01/2014), el valor es interpretada y presentada a los estudiantes como una fecha.
 
   .. image:: ../Images/advertised_start.png
    :alt: Image of the advertised start date policy key with a value of "anytime, self-paced"
 
-4. Click **Save Changes** at the bottom of the page.
+4. Click **Guardar Cambios** en la parte inferior de la pagina.
 
-The start date shown on the dashboard is now the value of the **Course
-Advertised Start Date** policy key:
+La fecha de inicio se muestra en el panel de control este ahora es el valor del  ** Anuncio de la Fecha de Inicio del Curso** :
 
 .. image:: ../Images/dashboard-course_adver_start.png
  :alt: An image of a course listing in the student dashboard, with the
      advertised start date circled.
 
-If you do not change the default course start date (01/01/2030), and the
-**Course Advertised Start Date** policy value is ``null``, then the student
-dashboard does not list a start date for the course. Students just see that
-the course has not yet started.
+Si no se realiza ningun cambio por defecto la fecha de inico del curso será (01/01/2030), y el valor de **Anuncio de la Fecha de Inicio del Curso**
+es  ``null``, entonces los estudiantes en el panel de control no podrán ver la fecha de inicio del cursoe. Los estudiantes solo podrán ver que el curso aun no espieza.
 
-.. _The Course End Date:
+.. _Fecha de Fin de Curso:
 
 ***********************************
-The Course End Date
+Fecha de Fin de Curso
 ***********************************
 
-The course end date is the date after which students can no longer earn credit
-toward certificates. Students who have earned certificates can view them after
-the course end date.
+La fecha de fin de Curso es la fecha después de la cual los estudiantes no pueden obtener créditos para los certificados.Los estudiantes que tienen certificados obtenidos 
+pueden verlos después de la fecha de finalización del curso..
 
 .. important::
- If you do not set a course end date, students will not be able to access
- earned certificates.
+ Si no se establece la fecha de finalización del curso, los estudiantes no podrán acceder a los certificados obtenidos.
 
 .. note:: 
- For courses on edX.org_, you must communicate the course end date to
- your edX Program Manager, to ensure the date is accurate on the course
- summary page.
+ Para los cursos en edX.org_, deben comunicarse la fecha de finalización del curso para el administrador del programa edXr, para confirmar que la fecha sea exacta en la página de resumen del curso.
 
-After grades and certificates are finalized, students see the course end date
-on their personal **Current Courses** dashboards, as shown in the following
-examples.
+Despues de que las calificaciones y certificados son finalizados, los estudiantes ven la fecha de finalización en su paneles de control **Cursos Actuales**, como se muestra en el siguiente ejemplo.
 
-* If grades and certificates are not yet finalized, students can see the course
-  end date and a message:
+* Si las calificaciones y certificados no son aun finalizados, lis estudiantes pueden ver la fecha de finalización del curso y un mensaje:
 
   .. image:: ../Images/dashboard-wrapping-course.png
    :alt: Image of a course on the student dashboard that has ended, but not
      been graded
 
-* When grades and certificates are finalized, students who have not earned a
-  certificate see their score and the score required to earn a certificate:
+* Cuando las calificaciones y certificados son finalizados, los estudiantes quienes no han obtenido un certificado pueden ver sus puntajes y los requeridos para obtener un certificado:
   
   .. image:: ../Images/dashboard-no-cert-course.png
    :alt: Image of a course on the student dashboard that has ended, but not
      been graded
 
-* Students whose final score is equal to or higher than the required score can
-  click **Download Certificate** to get their certificates as PDFs:
+* ]Los estudiantes quienes tengan un puntaje igual o mayor al puntaje requerido pueden hacer click en **Descargar Certificado** para obtener sus certificados en PDFs:
 
   .. image:: ../Images/dashboard-completed-course.png
    :alt: Image of a course on the student dashboard that has ended, but not
      been graded
 
 
-.. _Describe Your Course:
+.. _Describir Curso:
 
 ************************
-Describe Your Course
+Descriir Curso
 ************************
 
-On Edge_, students that you explicitly invite see the description of your course
-on the course summary page.
+En Edge_, los estudiantes a los que invite explícitamente ver la descripción de su curso en la página de resumen del curso.
 
-For example, the course description is circled in the following course summary
-page:
+Por ejemplo, la descripción del curso esta encerrado en la siguiente página de resumen.
 
 .. image:: ../Images/about-page-course-description.png
  :alt: Image of a course summary with the description circled
@@ -237,169 +208,154 @@ page:
 .. image:: ../Images/course_overview.png
   :alt: Image of the HTML course description.
 
-3. Overwrite the content as needed for your course, following the directions in
-   the boilerplate text. Do not edit HTML tags. For a template that includes
-   placeholders, see :ref:`A Template For Course Overview`.
+3. Sobreescribir el contenico según sea  necesario para el curso, 
+   siguiendo las instrucciones en el texto modelo. No edite etiquetas HTML. Para una plantilla que incluye marcadores de posición, ver: ref: `Una plantilla para Curso Overview`
 
-   .. note:: There is no save button. Studio automatically saves your changes.
+   .. note:: No hay un boton para grabar. Los cambios son guardados automaticamente.
  
-4. Click **your course summary page** in the text beneath the field to test how
-   the description will appear to students.
+4. Click **página resumen del cursoe** en el texto debajo del campo probar cómo aparecerá la descripción para los estudiante.
 
-.. _Add a Course Image:
+.. _Añadir una imagen al Curso:
 
-************************
-Add a Course Image
-************************
+***************************
+Añadir una imagen al Curso
+***************************
 
-The course image that you add in Studio appears on the student dashboard. 
+La imagen del curso que se quiere añadir en el Estudio aparece en el panel del control. 
 
-On Edge_, the image also appears on the course summary page.
+In Edge_,la imagen tambien aparece en la página de resumen.
 
-In the following example, the course image that was added in Studio is circled
-in the student dashboard:
+En el siguiente ejemplo, la imagen del curso que se añadió en Estudio es un círculo en el panel de control del estudiante:
 
 .. image:: ../Images/dashboard-course-image.png
  :alt: Image of the course image in the student dashboard
 
-On edX.org_, the course image you add in Studio does not appear on the course
-summary page automatically. You must work directly with your edX Program Manager
-to set up the course summary page.
+En edX.org_, la imagen del curso se añade en Estudio no aparece en la página de resumen automaicamente, Se debe trabajar directamente con el Administrador del programa edX
+para configurar la página de resumen del curso.
 
-The course image should be a minimum of 660 pixels in width by 240 pixels in
-height, and in .JPG or .PNG format.
+La imagen del curso debería ser mínimo de 600 pixeles de ancho por 240 pixels alto, y en formato .JPG o .PNG.
 
-#. From the **Settings** menu, select **Schedule & Details**.
-#. Scroll down to the **Course Image** section.
-#. To select an image from your computer, click **Upload Course Image**, then
-   follow the prompts to find and upload your image.
-#. View your dashboard to test how the image will appear to students.
+#. Desde el menú **Ajustes**, seleccionar **Horarios y detalles**.
+#. Vaya a la sección de **Imagen Curso**.
+#. Para seleccionar la imagen desde la computador, click en **Cargar imagen del curso**, a continuación, siga las instrucciones para encontrar y cargar la imagen.
+#. Ver su panel de control para probar cómo aparecerá la imagen para estudiantes.
 
-.. _Add a Course Video:
+.. _Añadir videos al curso:
 
 *********************************
-Add a Course Introduction Video
+Añadir videos al curso
 *********************************
 
-On Edge_, the course introduction video appears on the course summary page that
-students see.
+En Edge_, el video introductorio del curso aparecen en la página de resumnen que los estudiantes ven.
 
-.. note:: On edX.org_, you work directly with your Program Manager to set up the
- course video in the summary page.
+.. note:: En edX.org_, se trabaja directamente con el administrador del programa para configurar el video del curso en la página de resumen.
 
-In the following example, the course video is circled in the course summary
-page:
+En el siguiente ejemplo, el video del curso esta redondeado en la página de resumen
 
 .. image:: ../Images/about-page-course-video.png
  :alt: Image of the course video in the course summary page.
 
-The course video should excite and entice potential students to enroll, and
-reveal some of the personality the instructors bring to the course.
 
-The video should answer these key questions:
+El vídeo curso debe excitar y seducir a los potenciales estudiantes para inscribirse, y revelar algo de la personalidad de los instructores de traer al curso.
 
-* Who is teaching the course?
-* What university or college is the course affiliated with?
-* What topics and concepts are covered in your course?
-* Why should a learner enroll in your course?
+El video debería responder las preguntas claves:
 
-The video should deliver your message as concisely as possible and have a run
-time of less than 2 minutes.
+* Quienes enseñan el curso?
+* ¿Qué universidades están afiliados con el curso? 
+* ¿Qué temas y conceptos son cubiertos por este curso?
+* ¿Por qué un estudiante deberia inscribirse en el curso?
 
-Ensure your course introduction video follows the same :ref:`Compression
-Specifications` and :ref:`Video Formats` guidelines as course content videos.
+El video debería comunicar el mensaje de una manera concisa y tener un tiempo de ejecución de menos de 2 minutos.
 
-To add a course introduction video:
+Se debe asegurar que el video de introducción al curso sea similoar al siguientee :ref:`Especificaciones de compresión` y :ref:`Formatos de Video` directrices como videos.
+
+Añadir un video de introducción del curso:
 
 
-#. Upload the course video to YouTube. Make note of the code that appears
-   between **watch?v =** and **&feature** in the URL. This code appears in the
-   green box below.
+#. Suba el video del curso a YouTube. Anote el código que aparece entre **watch?v =** y **&características ** en la URL. Este código aparece en el cuadro verde de abajo.
 
   .. image:: ../Images/image127.png
     :alt: Image of a sample course video
     
-2. From the **Settings** menu, select **Schedule & Details**.
-#. Scroll down to the **Course Introduction Video** section.
-#. In the field below the video box, enter the YouTube video ID (the code you
-   copied in step 1). When you add the code, the video automatically loads in
-   the video box. Studio automatically saves your changes.
-#. View your course summary page to test how the video will appear to students.
+2. Desde el menú  **Ajustes**, seleccione  **Horarios y Detalles**.
+#. Vaya a la sección de** Curso Introducción video **.
+#. En el campo debajo del cuadro de vídeo, introduzca el ID de vídeo de YouTube (el código que copió en el paso 1). Cuando se agrega el código, el video se carga 
+   automáticamente en el cuadro de video. Estos cambios son guardados automáticamente.
+#. Ver la página de resumen del curso para probar cómo aparecerá el vídeo a los estudiantes.
 
-.. _Set Course Requirements:
+.. _Establecer Requisitos del Curso:
 
-************************
-Set Course Requirements
-************************
-The estimated Effort per Week appears at the bottom of the course summary page.
+********************************
+Establecer Requisitos del Curso
+********************************
 
-#. From the **Settings** menu, select **Schedule & Details**.
-#. Scroll down to the **Requirements** section.
-#. In the **Hours of Effort per Week** field, enter the number of hours you
-   expect students to work on this course each week.
-#. View your course summary page to test how the requirements will appear to students.
+El esfuerzo estimado por Semana aparece en la parte inferior de la página resumen del curso.
 
-.. _A Template For Course Overview:
+#. Desde el menú  **Ajustes**, seleccione  **Horarios y Detalless**.
+#. Vaya a la sección  **Requisitos**.
+#. En el campo **Horas de Esfuerzo por Semana **, introduzca el número de horas que espera que los estudiantes trabajen en este curso cada semana.
+#. Rebisar la página de resumen del curso para comprobar como los requisitos aparecen para los estudiantes.
+
+.. _Modelo Para La Visión general del curso:
 
 ************************************************
- A Template For Your Course Overview
+Modelo Para La Visión general del curso
 ************************************************
 
   
-Replace the placeholders in the following template with your information.
+
+Reemplace los placeholders en la plantilla siguiente con su información.
 
 .. code-block:: html
 
   <section class="about">
-    <h2>About This Course</h2>
-    <p>Include your long course description here. The long course description
-      should contain 150-400 words.</p>
-    <p>This is paragraph 2 of the long course description. Add more paragraphs
-      as needed. Make sure to enclose them in paragraph tags.</p>
+    <h2>Acerca de este curso</h2>
+    <p>Incluya la descripción larga aquíe. El largo de la descripción del curso
+      debería contener 150-400 palabras.</p>
+    <p>Este es el párrafo 2 de la descripción del curso largo. Añadir más párrafos, 
+      según sea necesario. Asegúrese de incluir en las etiquetas del párrafo.</p>
   <section>
   <section class="prerequisites">
-    <h2>Prerequisites</h2>
-    <p>Add information about class prerequisites here.</p>
+    <h2>Prerequisitos</h2>
+    <p>Añadir información acerca de las clases de prerequisitos aquí.</p>
   </section>
   <section class="course-staff">
-    <h2>Course Staff</h2>
+    <h2>Staff del curso</h2>
     <article class="teacher">
       <div class="teacher-image">
-        <!-- Replace the path below with the path to your faculty image. -->
+        <!-- Remplace el enlace con el enlace de su imagen. -->
         <img src="/c4x/edX/edX101/asset/Placeholder_FacultyImage.jpg"
           align="left" style="margin:0 20 px 0"/>
       </div>
-      <h3>Staff Member</h3>
-      <p>Biography of instructor/staff member</p>
+      <h3>Miembros del Staff</h3>
+      <p>Bibliografía del instructor /miembros del staff</p>
     </article>
   <article class="teacher">
       <div class="teacher-image">
         <img src="/c4x/edX/edX101/asset/Placeholder_FalcutyImage.jpg"/>
       </div>
-      <h3>Staff Member Name</h3>
-      <p>Biography of instructor/staff member</p>
+      <h3>Nombre de los mienbros del Staff</h3>
+      <p>Bibliografía del instructor/miembros del staff</p>
     </article>
   </section>
   <section class="faq">
     <section class="responses">
-      <h2>Frequently Asked Questions</h2>
+      <h2>Preguntas Frecuentes</h2>
       <article class="response">
-        <h3>Do I need to buy a textbook?</h3>
-        <p>No, a free online version of Chemistry: Principles, Patterns, and
-          Applications, First Edition by Bruce Averill and Patricia Eldredge
-          will be available, though you can purchase a printed version
-          (published by FlatWorld Knowledge) if you'd like.</p>
+        <h3>¿Necesito comprar un libro?</h3>
+        <p>No, una versión gratuita en línea de Química: Principios, Patrones, y Aplicaciones, Primera edición de Bruce Averill y Patricia Eldredge 
+          estará disponible, aunque usted puede comprar una versión impresa (publicado por Flatworld Conocimiento) si lo desea..</p>
       </article>
       <article class="response">
-        <h3>Question 2?</h3>
-        <p>Answer 2.</p>
+        <h3>¿Pregunta 2?</h3>
+        <p>Respuesta 2.</p>
       </article>
     </section>
   </section>
 
-  <!--Paragraph: <p>CONTENT GOES IN HERE</p> -->
-  <!--Line break: <br/> -->
-  <!--Hyperlink: <a href="URL">LINK TEXT</a> -->
-  <!--Email hyperlink: <a href="mailto:EMAIL@ADDRESS.COM">LINK TEXT</a> -->
-  <!--Bold text: <b>TEXT</b> -->
-  <!--Italic text: <i>TEXT</i> -->
+  <!--Parrafo: <p>EL CONTENIDO VA AQUÍ</p> -->
+  <!--Salto de Línea: <br/> -->
+  <!--Hipervinculo: <a href="URL">LINK TEXT</a> -->
+  <!--Hipervinvulo de Email: <a href="mailto:EMAIL@ADDRESS.COM">LINK TEXT</a> -->
+  <!--Texto en Negrita: <b>TEXT</b> -->
+  <!--Texto en Italic: <i>TEXT</i> -->
