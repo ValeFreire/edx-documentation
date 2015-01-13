@@ -10,19 +10,19 @@ Visión General
 
 El establecimiento de una política de evaluación tiene varios pasos. Usted debe:
 
-#. :ref:`Establecer el rango de las calificaciones`
+#. :ref:`Establecer el rango de calificaciones`
 #. :ref:`Configurar el periodo de calificación`
 #. :ref:`Configuracion de tipos de tareas`
 #. :ref:`Calificación de Subsecciones`
-#. :ref:`Visión de calificacione para los estudiantes`
+#. :ref:`Vista de calificaciones para los estudiantes`
 
 .. important:: Algunos cambios de políticas de calificaciones, calificación de subcciones o calificaciones de componente depués de iniciado el curso pueden afectar la esperiencia de los estudiantes en el 
 	       curso y el analisis de los datos. 
 
-.. _Set the Grade Range:
+.. _Establecer el rango de calificaciones:
 
 ***************************************
-Establecer rango de las calificaciones
+Establecer el rango de calificaciones
 ***************************************
 
 Se debe establecer el rango de las calificaciones para el curso. Por ejemplo, el curso se puede pasar/perder, o pueden tener calificaciones de la A a la F
@@ -64,11 +64,11 @@ Se utiliza el control de rango de calificaciones para cambiar estos ajustes:
 Después de realizar cualquier cambio en el rango de calificaciones, debe hacer click en **Guardar Cambis ** en la parte inferior de la página.
 
 
-.. _Grade Ranges and Certificates:
+.. _Configurar el periodo de calificación:
 
-==============================
-Rangos de Grado y certificados
-==============================
+======================================
+Configurar el periodo de calificación
+======================================
 
 Si usted planea para su curso ofrecer certificados, tenga en cuenta que la calificación de los  estudiantes para obtener un certificado mediante la obtención de cualquier calificación sobre F, o fallar.
 Esto es independientemente del número de niveles de grado se agrega en el rango de grado.
@@ -85,11 +85,11 @@ Puede establecer un período de gracia para que  extienda las fechas de vencimie
 
 En la página de calificación, en **Reglas y políticas que calificanción**, introduzca un valor en el campo **Período de Gracia**. Introduzca el valor en formato Horas: Minuto.    
 
-.. _Configure the Assignment Types:
+.. _Configuracion de tipos de tareas:
 
-******************************
-Configurar tipos de tareas
-******************************
+*********************************
+Configuracion de tipos de tareas
+*********************************
 
 Se debe crear el tipo de tarea para el curso y determinar el peso de la calificación para cada tipo de asignación.
 
@@ -145,7 +145,7 @@ El número de tareas de este tipo que va a incluir en su curso.
    El número de tareas de este tipo que  se incluirán en el curso.
    La primera calificación con menor puntaje de la tarea será dada de baja
 
-.. _Graded Subsections:
+.. _Calificación de Subsecciones:
 
 ******************************
 Calificación de Subsecciones
@@ -177,7 +177,7 @@ el tipo de asignación Lab. Ambas subsecciones pueden constar de otros contenido
 
 See :ref:`Trabajar en Contenidos con problemas` para obtener instrucciones sobre cómo crear problemas.
 
-.. _The Student View of Grades:
+.. _Vista de calificaciones para los estudiantes:
 
 *********************************************
 Vista de calificaciones para los estudiantes

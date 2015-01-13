@@ -12,9 +12,9 @@ Visión General
 Este capítulo desccribe como crear paso a paso un curso: 
 
 
-* :ref:`Crear un nuevo Curso`
+* :ref:`Crear nuevo curso`
 * :ref:`Editar Curso`
-* :ref:`Utilice la lista de control del Curso`
+* :ref:`Lista de verificación del curso`
 * :ref:`Añadir miembros al grupo del Curso`
 
 Tu también puedes :ref:`Exportar un Curso` y :ref:`Importar un Curso` através del curso.
@@ -24,7 +24,7 @@ Se puede hacer esto cuando sea necesario, para editar cursos en XML.
 .. _Edge: http://edge.edx.org
 .. _edXorg: http://edx.org
 
-.. _Create a New Course:
+.. _Crear nuevo curso:
   
 *******************
 Crear nuevo curso
@@ -58,14 +58,12 @@ Crear nuevo curso
 
 A continuación, verá el esquema del curso vacío.
 
-.. _Edit Your Course:
+.. _Editar Curso:
 
 ************************
 Editar Curso
 ************************
 Cuando se crea un nuevo curso, el curso se abre en la sesión de estudio de forma automática y se puede comenzar a editar.
-
-.. _Edit Your Course:
 
 Cuando se retorna a la sesión de estudio, los cursos se enumeran en la página de inicio.
 
@@ -74,7 +72,7 @@ Cuando se retorna a la sesión de estudio, los cursos se enumeran en la página 
  
 Abra el curso, click en el nombre del curso. Ir al esquema del curso. 
 
-.. _Use the Course Checklist:
+.. _Lista de verificación del curso:
 
 ********************************
 Lista de verificación del curso
@@ -101,11 +99,11 @@ Puede expandir y contraer secciones de esta página según sea necesario.
 
 Las tareas pueden ser comprobadas a medida que van siendo finalizadas. En la sesión de estudio los cambios son guardados automáticamente. Otros miembros del curso puede ver los cambios.
 
-.. _Add Course Team Members:
+.. _Añadir miembros al grupo del Curso:
 
-*************************
-Añadir miembros al curso
-*************************
+***********************************
+Añadir miembros al grupo del Curso
+***********************************
 
 Los miembros del curso son usuarios quienes ayudan a la elaboración del cursoe.
 

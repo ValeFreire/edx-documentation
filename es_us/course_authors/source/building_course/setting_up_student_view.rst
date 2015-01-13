@@ -20,12 +20,12 @@ Ver:
 * :ref:`Establecer fechas importantes para el Curso`
 * :ref:`Fecha para iniciar el Curso`
 * :ref:`Ajustar la fecha de inicio del anuncio`
-* :ref:`Fecha del Final del Curso`
-* :ref:`Describe Your Course`
-* :ref:`Añadir imagen al curso`
-* :ref:`Añadir videa al curso`
-* :ref:`Ajustar requerimientos para el curso`
-* :ref:`Modelo para la vista general del curso`
+* :ref:`Fecha de Fin de Curso`
+* :ref:`Describir Curso`
+* :ref:`Añadir una imagen al Curso`
+* :ref:`Añadir videos al curso`
+* :ref:`Establecer Requisitos del Curso`
+* :ref:`Modelo Para La Visión general del curso`
 
 
 .. _Edge: http://edge.edx.org
@@ -187,7 +187,7 @@ Despues de que las calificaciones y certificados son finalizados, los estudiante
 .. _Describir Curso:
 
 ************************
-Descriir Curso
+Describir Curso
 ************************
 
 En Edge_, los estudiantes a los que invite explícitamente ver la descripción de su curso en la página de resumen del curso.

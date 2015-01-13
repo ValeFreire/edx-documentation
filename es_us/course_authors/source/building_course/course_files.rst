@@ -19,7 +19,7 @@ Se debe usar imagene, archivos  u otros documentos como sílabos para el conteni
 * :ref:`Borrar archivo`
 
 
-.. _Add a File:
+.. _Añadir archivo:
 
 *******************
 Añadir archivo
@@ -54,7 +54,7 @@ Añadir archivos:
 
 Cuando se cierra el ciuadro de dialogo, las nuevas carpetas aparecen enla pagina en  **Archivos & Cargas**.
 
-.. _File URLs:
+.. _URLs de archivos:
 
 *******************
 URLs de archivos
@@ -77,10 +77,10 @@ Puede hacer doble click en un valor en el **URL embed ** o **URL externo** para 
 
 
 
-.. _Sort Files:
+.. _Ordenar archivos:
 
 *******************
-Ordenar Archivos
+Ordenar archivos
 *******************
 
 Por defecto, los archivos son ordenados por la columna de **Fecha de creación**, con el archivo más reciente agregado primero.
@@ -95,10 +95,10 @@ El orden actual se muestra en la parte superior de la lista de archivos, y se su
 .. image:: ../Images/file_sort.png
   :alt: Ordenar archivos en Archivos & Cargas
 
-.. _Find Files:
+.. _Buscar archivos:
 
 *******************
-Buscar Archivo
+Buscar archivos
 *******************
 
 
@@ -117,10 +117,10 @@ Usted puede navegar a través de las páginas del listado de archivos de dos man
   .. image:: ../Images/file_pagination.png
     :alt: Paginación en Archivos y Cargas
 
-.. _Lock a File:
+.. _Bloquear archivo:
  
 *******************
-Bloquear Archivos
+Bloquear archivo
 *******************
 
 Por defecto, cualquier persona puede acceder a un archivo que subas si conocen la URL, incluso las personas que no están inscritos en su clase.
@@ -129,10 +129,10 @@ Para asegurarse de que los que no están en tu clase no puede ver el archivo, ha
 
 .. note:: El URL externo no trabaja si el archivo esta bloqueado.
  
-.. _Delete a File:
+.. _Borrar archivo:
 
 *******************
-Borrar Archivos
+Borrar archivo
 *******************
 
 Para borrar un archivo, click en el icono **x** que esta junto al archivo. Se le solicitará que confirme la eliminación.
