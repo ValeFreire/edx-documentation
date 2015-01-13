@@ -1,38 +1,33 @@
-.. _Adding Textbooks:
+.. _Añadir Libros de Estudio:
 
 ###########################
-Adding Textbooks
+Añadir Libros de Estudio
 ###########################
 
-You can add PDF textbooks for your course.  
+Se puede añadir libros de estudio en formato PDF para el curso.  
 
-.. note::  Do not use image files (for example, .PNG files) as textbooks for
- your course, as they are not accessible to screen readers. Review the
- :ref:`Best Practices for Accessible PDFs` for more information.
+.. note::  No utilice los archivos de imagen (por ejemplo, archivos PNG) como los libros de estudio para el curso, ya que no son accesibles a los lectores de pantalla. 
+           Revise el: ref: `Las mejores prácticas para PDFs` accesibles para más información.
 
-Each textbook that you add is displayed to students as a tab in the course
-navigation bar.
+Cada libro de texto que se agrega se muestra a los estudiantes como una pestaña en la barra de navegación del curso.
 
-It's recommended that you upload a separate PDF file for each chapter of your
-textbook.
+Es recomendable que se carguen los archivos PDF de los libros de estudio independientemente para cada capítulo del curso.
 
-When students open the textbook tab in the course, they can navigate the
-textbook by chapter:
+Cuando los estudiantes abren la pestaña en el curso, ellos pueden navegar por los libros de estudio de cada capítulo:
 
 .. image:: ../Images/textbook_chapters.png
  :alt: Image of a textbook in a course.
 
-To add a textbook:
+Añadir Libros de Estudio:
 
-#. From the **Content** menu, select **Textbooks**.
-#. Click **New Textbook**. The following screen opens:
+#. Desde el menú **Contenido**, seleccione **Libros de Estudio**.
+#. Click **Nuevo libro de estudio**. Se abrirá una nueva pantalla:
 
   .. image:: ../Images/textbook_new.png
    :alt: Image of the New Textbook page.
 
-3. Enter the **Textbook Name**.
-#. Enter the first **Chapter Name**.
-#. To upload a PDF file from your computer, click **Upload PDF**.  Follow the
-   prompts to upload your file.
-#. To add more chapters, click **+Add a Chapter** and repeat steps 3 and 4.
-#. Click **Save**.
+3. Ingrese el **Nombre del Libro de Estudio**.
+#. Ingrese el primer  **Nombre del Capítulo**.
+#. Cargar el archivo ]PFD desde el computador, click **Cargar PDF**.  Sega las instrucciones para cargar el archivo.
+#. Añadir más capítulos, click **+Añadir un Capítulo** y repetir el paso 3 y 4.
+#. Click **Guardar**.
