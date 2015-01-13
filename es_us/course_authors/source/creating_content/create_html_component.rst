@@ -1,8 +1,8 @@
-.. _Working with HTML Components:
+.. _Trabajar con Componentes HTML:
 
 
 #############################
-Working with HTML Components
+Trabajar con Componentes HTML
 #############################
 
 ***********************

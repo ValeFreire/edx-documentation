@@ -1,105 +1,92 @@
-.. _Working with Discussion Components:
+.. _Trabajando con Componetes de Discusión:
 
-###################################
-Working with Discussion Components
-###################################
+#######################################
+Trabajando con Componetes de Discusión
+#######################################
 
 *******************
-Overview
+Vista General
 *******************
 
-You can add a Discussion component to a unit, to pose a question related to the
-Unit and give students a chance to respond and interact.
+Se puede añadir un componente de discusión para una unidad, plantear una pregunta relacionada con la Unidad y dar a los estudiantes la posibilidad de responder e interactuar.
 
-See the following topics:
+Revisar los siguientes temas:
 
-* :ref:`Create a Discussion Component`
-* :ref:`A Students View of the Discussion`
+* :ref:`Crear un componente de discusión`
+* :ref:`Vista de la discusión para Estudiantes`
 
 
-Before you add a Discussion component, it is generally a good idea to add an
-HTML component that introduces the topic to be discussed. The Discussion
-component itself does not contain any text and may be easy for students to
-overlook.
+Antes de añadir un componente de discusión, por lo general es una buena idea añadir un componente HTML para la introducción del tema a tratar. 
+El propio componente de discusión no contiene ningún texto y puede ser fácil para los estudiantes pasarlo  por alto.
 
-Also see the following chapters:
 
-* :ref:`Discussions`
-* :ref:`Guidance for Discussion Moderators`
 
-.. _Create a Discussion Component:
+Ver también los siguientes capítulos:
 
-*****************************
-Create a Discussion Component 
-*****************************
+* :ref:`Discusiones`
+* :ref:`Guía para moderadores de discusión`
 
-#. Under **Add New Component**, click **Discussion**.
+.. _Crear un componente de discusión:
 
-#. In the Discussion component that appears, click **Edit**.
+*********************************
+Crear un componente de discusión 
+*********************************
+
+#. Bajo **Añadir nuevo componente**, click **Discusión**.
+
+#. En el componente de Discusiones que aparece, click **Editar**.
   
    .. image:: ../Images/Disc_Create_Edit.png
     :alt: Image of the discussion component with the Edit button circled
 
-#. When the Discussion component editor opens, follow the guidelines in the
-   editor to fill in the **Category**, the optional **Display Name**, and the 
-   **Subcategory** fields.
+#. Cuando el editor del componente de discusión se abre, seguir las directrices en el editor para rellenar en la  **Categoría**, la opción  **Mostrar nombre** y el campo **Subcategoría**. 
    
    .. image:: ../Images/DiscussionComponentEditor.png
     :alt: Image of the discussion component editor with a category of "Getting Graded" and a subcategory of "Answering More Than Once"
 
-   The value in the **Display Name** field identifies the discussion in the
-   course content. The values in the **Category** and **Subcategory** fields
-   appear in the list of discussion topics on the **Discussion** page. To
-   uniquely identify the discussion in your course, each **Category** /
-   **Subcategory** pair that you supply must be unique.
+   El valor del campo identificador de la discusión **Mostrar Nombre** en el contenido del curso. Los valores de **Categoría** y **Subcategoría** son campos que aparecerán en el dlistado de
+   los temas de discusión en la página **Discusiones**. Para identificar a la discusión en el curso, cada par de ** Categoría ** / **Subcategoría** que se proporcionen debe ser único.
 
    .. image:: ../Images/Discussion_category_subcategory.png
     :alt: The list of discussions with the "Answering More Than Once" topic indented under "Getting Graded"
   
-#. Click **Save**.
+#. Click **Guardar**.
 
 .. warning:: 
-  You should always use these steps to create a discussion component. If you
-  create a discussion component by using the **Duplicate** button in Studio,
-  both discussion components will contain the same conversations, even if users
-  post in different discussions.
+  Siempre debe utilizar estos pasos para crear un componente de discusión. Si se crea un componente de discusión mediante el botón **Duplicar** en estudio, ambos componentes de discusión 
+  contendrán las mismas conversaciones, incluso si los usuarios publican en diferentes discusiones.
 
-Discussion *categories* are immediately visible on the **Discussion** tab for
-your course when you create them, even if the unit that contains the Discussion
-is not published. However, an individual Discussion component is not visible
-until the unit is published and release dates for the section and subsection
-have passed. See :ref:`Controlling Content Visibility` for more information.
+Las *Categorías* de discusión son inmediatamente visibles en **Discusión** en el curso al crearlas, aunque la unidad que contiene la discusión no se publica. Sin embargo, 
+un componente de Discusión individual no es visible hasta que la unidad se publica y las fechas de lanzamiento de la sección y subsección hayan pasado. Para más información 
+ver: ref: `Control de visibilidad de contenido`.
 
-Additionally, you cannot see posts, responses, or comments in a Discussion
-component when you are working in Studio. To see the discussion, go to the unit
-that contains the Discussion component in Studio, and then click **Preview** or
-**View Live** under **Unit Settings**.
+Adicionalmente, no se pueden ver los mensajes, responder o comentar en un componente de  discusión cuando se trabaja en Estudio.
+Para ver las discusiones, ir a la unidad que contiene el componente de debate en Studio y, a continuación, haga click **Vista Previa** o
+**Ver en vivo** debajo **Configuración de unidad**.
 
-.. _A Students View of the Discussion:
+.. _Vista de la discusión para Estudiantes:
 
-**********************************
-A Student's View of the Discussion 
-**********************************
+***************************************
+Vista de la discusión para Estudiantes
+***************************************
 
-For students, the display name for the Discussion component appears in the
-course ribbon at the top of the page:
+Para los estudiantes, el nombre de visualización para el componente discusión aparece en la
+cinta de curso en la parte superior de la página:
 
 .. image:: ../Images/DiscussionComponent_LMS_Ribbon.png
  :alt: Image of a unit from a student's point of view with the component list
      showing a discussion component
 
-The Discussion space appears under other components in the unit. It doesn't
-have a label in the body of the unit. Instead, students see "Show discussion"
-or "Hide discussion" on the left, and a blue **New Post** button on the right.
 
-In the following example, the Discussion component follows Video and HTML
-components:
+El espacio de debate aparece debajo de otros componentes de la unidad. No tiene una etiqueta en el cuerpo de la unidad. En cambio, los estudiantes ven "Mostrar discusión" o "Ocultar discusión" 
+a la izquierda, y un botón azul ** Nuevo Post ** a la derecha.
+
+En el siguiente ejemplo, el componente de discusion sigue componentes de vídeo y HTML:
 
 .. image:: ../Images/DiscussionComponent_LMS.png
   :alt: Image of a video component followed by a discussion component
 
-In the **Discussion** tab at the top of the page, students can find the
-category and subcategory of the discussion in the left pane.
+En la pestaña  **Discusiones** en la parte superior de la página, los estudiantes pueden buscar la categoría y subcategoría de la discusión en el  panel izquierdo.
 
 .. image:: ../Images/Discussion_category_subcategory.png
  :alt: Image of the Discussion page from a student's point of view
